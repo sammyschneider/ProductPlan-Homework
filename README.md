@@ -46,8 +46,9 @@ Now that we place three bars, that's it!
 8. Please use React.js in completing the task.
 9. The peripheral UI element like Search and the Roadmap, Planning Board, and Parking Lot should be inactive for the purpose of this exercise.
 10. 
-11. Use the following API calls to populate the content areas of the page for an A/B content testing example for the instructional prompts - the hypothetical goal of this test is to validate two content approaches. Assume that the data from these calls is correct.
-    - Content (GET: https://api.myjson.com/bins/TBD)
+11. Use the following API calls to populate the content areas of the page for an A/B content testing example for the instructional prompts - the hypothetical goal of this test is to validate two content approaches, and we should be able to toggle between the two experiences to preview the A/B test. Assume that the data from these calls is correct.
+    - Content_a (GET: https://api.myjson.com/bins/TBD)
+    - Content_b (GET: https://api.myjson.com/bins/TBD)
 10. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
 
 ## What we're looking for
