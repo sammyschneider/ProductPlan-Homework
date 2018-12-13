@@ -1,5 +1,5 @@
 # ProductPlan Candidate Homework
-Homework for ProductPlan Engineering candidates. This is an attempt to emulate first time use of our product. The goal is to progress a new user through a step-by-step flow and mimic simple drag and drop behaviors to emulate a simple product roadmap. 
+The goal of this exercise is to emulate the first time use of the ProductPlan web application. In effort to assist a new user through a step-by-step flow and mimic drag and drop behaviors to emulate a simple product roadmap by creating one "lane" and three "bars" with instructional elements that guide them to success.
 
 ## Your challenge, should you choose to accept it
 1. Clone this repo (or download the zip archive) to get started.
@@ -7,7 +7,7 @@ Homework for ProductPlan Engineering candidates. This is an attempt to emulate f
     
     <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="500"/>
     
-3. Shortly after initial load, a help dialog is presented to prompt our new user to Add a lane:
+3. Shortly after initial load, a prompt appears and instructs the the new user to "Add a lane":
 
     <img src="ProductPlan - On Boarding - 01.png" alt="alt text" width="500"/>
 2. The "Add lane" button should enable a drag and drop behavior that creates a container, moving right to left:
