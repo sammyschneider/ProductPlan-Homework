@@ -2,7 +2,7 @@
 The goal of this exercise is to emulate the first time use of the ProductPlan web application. In effort to assist a new user through a step-by-step flow and mimic drag and drop behaviors to emulate a simple product roadmap by creating one "lane" and three "bars" with instructional elements that guide them to success.
 
 ## Your challenge, should you choose to accept it
-1. Clone this repo (or download the zip archive) to get started. This includes both flattened PNGs and the original Sketch file.
+1. Clone this repo (or download the zip archive) to get started. This includes both PNGs and the original Sketch file.
 2. Your page should closely resemble ProductPlan - On Boarding - 02.png on the page load:
     
     <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="500"/>
