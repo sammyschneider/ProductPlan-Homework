@@ -41,7 +41,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
     
     <img src="ProductPlan - On Boarding - 12.png" alt="alt text" width="600"/>
 
-That's it! 
+Now that we have created three bars, that's it! 
 
 8. Please use React.js to complete the task.
 9. Use the following API calls to populate any or all parts of page. The data returned may not reflect the amounts in the On Boarding pngs. Assume that the data from these calls is correct.
@@ -50,12 +50,13 @@ That's it!
 10. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
 
 ## What we're looking for
-- **Attention to detail**. Can you build a near-identical representation of the screenshots we provided above? No detail is too small in our assessment.
+- **Attention to detail**. Can you build a near-identical representation of the pngs provided above? No detail is too small in our assessment.
 - **Appropriate use of frameworks and tools**. React.js is our preferred framework. For other tooling, as long as you use your preferred tools in an appropriate way and are able to describe your reasoning if asked, you're good to go.
 
 ## Bonus Points
 - You may choose to make the application responsive.
 - You may choose to make the bars drag & droppable into different positions within the timeline.
+- You may choose to make the underlying timeline horizontally scrollable.
 
 ## Help!
-Should you stumble into any questions during your quest, feel free tor reach out to your recruiter or dev contact. There are no stupid questions!
+Should you stumble into any questions during your quest, feel free tor reach out to your contact. There are no stupid questions!
