@@ -27,6 +27,10 @@ Welcome! The goal of this homework exercise is to emulate first time use of the 
 
     <img src="ProductPlan - On Boarding - 07.png" alt="alt text" width="600"/>
     
+6. Shortly after the first bar is placed, a second prompt instructs the new user to add two more: 
+
+    <img src="ProductPlan - On Boarding - 08.png" alt="alt text" width="600"/>
+    
 3. Your page should closely resemble [business_overview_expanded.png](business_overview_expanded.png) when the "more" links are clicked:
     
     <img src="business_overview_expanded.png" alt="alt text" width="250"/>
