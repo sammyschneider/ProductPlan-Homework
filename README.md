@@ -45,7 +45,7 @@ Now that we place three bars, that's it!
 
 8. Please use React.js in completing the task.
 9. The peripheral UI element like Search and the Roadmap, Planning Board, and Parking Lot should be inactive for the purpose of this exercise.
-10. 
+10. One example of an isolated test for the public methods of any component
 11. Use the following API calls to populate the content areas of the page for an A/B content testing example for the instructional prompts - the hypothetical goal of this test is to validate two content approaches, and we should be able to toggle between the two experiences to preview the A/B test. Assume that the data from these calls is correct.
     - Content_a (GET: https://api.myjson.com/bins/TBD)
     - Content_b (GET: https://api.myjson.com/bins/TBD)
