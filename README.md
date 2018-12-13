@@ -1,5 +1,5 @@
 # ProductPlan Candidate Homework
-The goal of this exercise is to emulate the first time use of the ProductPlan web application. In effort to assist a new user through a step-by-step flow and mimic drag and drop behaviors to emulate a simple product roadmap by creating one "lane" and three "bars" with instructional elements that guide them to success. Candidates will have 7 days to complete this and the average time to completion is 10 hours.
+The goal of this exercise is to emulate the first time use of the ProductPlan web application. In effort to assist a new user, this mimics some drag and drop behaviors that emulates a simple product roadmap by creating one "lane" and three "bars", along with step-by-step instructional elements that guide users to success. Candidates have 7 days to complete this and we encourage candidates to time box the effort to 10 hours.
 
 ## Your challenge, should you choose to accept it
 1. Clone this repo (or download the zip archive) to get started. This includes both PNGs and the original Sketch file.
@@ -10,11 +10,13 @@ The goal of this exercise is to emulate the first time use of the ProductPlan we
 3. Shortly after initial load, a prompt appears and instructs the the new user to "Add a lane":
 
     <img src="ProductPlan - On Boarding - 01.png" alt="alt text" width="500"/>
+    
 2. The "Add lane" button should enable a drag and drop behavior that creates a container, moving right to left:
 
     <img src="ProductPlan - On Boarding - 03.png" alt="alt text" width="500"/>
     
 3. Once the draggable element is released, the container should render like this:
+
     <img src="ProductPlan - On Boarding - 04.png" alt="alt text" width="500"/>
     
 4. 
