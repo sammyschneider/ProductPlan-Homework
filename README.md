@@ -1,27 +1,31 @@
 # ProductPlan Candidate Homework
-Welcome! The goal of this homework exercise is to emulate first time use of the ProductPlan web application. In effort to assist a new user, this mimics some drag and drop application behaviors that emulates a simple product roadmap by creating one container "lane" and three "bars", along with step-by-step instructions to guide users to successful completion. Candidates have 7 days to complete this and candidates should time box the effort to no more than 10 hours. In addition, we encourage candidates to use any preferred tools. 
+Welcome! The goal of this homework exercise is to emulate first time use of the ProductPlan web application. In effort to assist a new user, this mimics some drag and drop application behaviors that emulates a simple product roadmap by creating one containing "lane" and three "bars", along with step-by-step instructions to guide users to successful completion. Candidates have 7 days to complete this and candidates should time box the effort to no more than 10 hours. In addition, we encourage candidates to use any preferred tools. 
 
 ## The challenge, should you choose to accept it
 1. Clone this repo (or download the zip archive) to get started. This includes both PNGs and the original Sketch file.
 2. Your page should closely resemble ProductPlan - On Boarding - 02.png on the page load:
     
-    <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="500"/>
+    <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="600"/>
     
 3. Shortly after initial load, a prompt appears and instructs the the new user to "Add a lane":
 
-    <img src="ProductPlan - On Boarding - 01.png" alt="alt text" width="500"/>
+    <img src="ProductPlan - On Boarding - 01.png" alt="alt text" width="600"/>
     
 2. The "Add lane" button should enable a drag and drop behavior that creates a container, moving right to left:
 
-    <img src="ProductPlan - On Boarding - 03.png" alt="alt text" width="500"/>
+    <img src="ProductPlan - On Boarding - 03.png" alt="alt text" width="600"/>
     
 3. Once the draggable element is released, the lane container should render like this:
 
-    <img src="ProductPlan - On Boarding - 04.png" alt="alt text" width="500"/>
+    <img src="ProductPlan - On Boarding - 04.png" alt="alt text" width="600"/>
     
 4. Shortly after the lane container is placed, a second prompt instructs the new user to add the first "bar":
 
-    <img src="ProductPlan - On Boarding - 05.png" alt="alt text" width="500"/>
+    <img src="ProductPlan - On Boarding - 05.png" alt="alt text" width="600"/>
+    
+5. The "Add bar" button should enable a drag and drop behavior of the first bar, moving right to left:
+
+    <img src="ProductPlan - On Boarding - 07.png" alt="alt text" width="600"/>
     
 3. Your page should closely resemble [business_overview_expanded.png](business_overview_expanded.png) when the "more" links are clicked:
     
