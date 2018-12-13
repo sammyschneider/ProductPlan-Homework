@@ -42,7 +42,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
     <img src="ProductPlan - On Boarding - 12.png" alt="alt text" width="600"/>
 
 8. Please use React.js in completing the task.
-9. The peripheral UI element like Search and the Roadmap, Planning Board, and Parking Lot should be inactive for the purpose of this exercise.
+9. The peripheral UI elements like Search and the Roadmap, Planning Board, and Parking Lot should be inactive for the purpose of this exercise.
 10. Provide the level of application test coverage you are comfortable with
 11. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
 
