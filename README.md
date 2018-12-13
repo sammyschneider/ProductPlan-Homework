@@ -43,7 +43,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
 
 8. Please use React.js in completing the task.
 9. The peripheral UI element like Search and the Roadmap, Planning Board, and Parking Lot should be inactive for the purpose of this exercise.
-10. Provide the level of application test coverage you are familiar with
+10. Provide the level of application test coverage you are comfortable with
 11. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
 
 ## What we're looking for
@@ -56,7 +56,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
 - You may choose to make the bars drag & droppable into additional lanes within the timeline.
 - You may choose to make the underlying timeline horizontally scrollable.
 - You may choose to make the Lane container expandable and collapsable.
-- You may choose to use API calls to populate content for A/B testing, specifically for instructional prompts - the hypothetical goal of this test is to validate two content approaches, and we should be able to toggle between the two experiences to preview the A/B test.
+- You may choose to use API calls to populate content for A/B testing, specifically for the instructional prompts - the goal of this hypothetical test is to validate two content approaches. We should be able to toggle between the two experiences to preview the A/B test.
 
 ## Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your contact. There are no stupid questions!
