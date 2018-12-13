@@ -1,5 +1,5 @@
 # ProductPlan Candidate Homework
-The goal of this exercise is to emulate the first time use of the ProductPlan web application. In effort to assist a new user through a step-by-step flow and mimic drag and drop behaviors to emulate a simple product roadmap by creating one "lane" and three "bars" with instructional elements that guide them to success.
+The goal of this exercise is to emulate the first time use of the ProductPlan web application. In effort to assist a new user through a step-by-step flow and mimic drag and drop behaviors to emulate a simple product roadmap by creating one "lane" and three "bars" with instructional elements that guide them to success. Candidates will have 7 days to complete this and the average time to completion is 10 hours.
 
 ## Your challenge, should you choose to accept it
 1. Clone this repo (or download the zip archive) to get started. This includes both PNGs and the original Sketch file.
