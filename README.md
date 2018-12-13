@@ -45,9 +45,9 @@ That's it!
 
 8. Please use React.js to complete the task.
 9. Use the following API calls to populate any or all parts of page. The data returned may not reflect the amounts in the On Boarding pngs. Assume that the data from these calls is correct.
-    - Roadmap (GET: https://api.myjson.com/bins/5bdb3)
-    - Pricing Options (GET: https://api.myjson.com/bins/47axv)
-10. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so that it can viewed in a working state.
+    - Roadmap (GET: https://api.myjson.com/bins/TBD)
+    - Content (GET: https://api.myjson.com/bins/TBD)
+10. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
 
 ## What we're looking for
 - **Attention to detail**. Can you build a near-identical representation of the screenshots we provided above? No detail is too small in our assessment.
