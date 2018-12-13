@@ -31,7 +31,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
 
     <img src="ProductPlan - On Boarding - 08.png" alt="alt text" width="600"/>
     
-7. After the prompt is closed, the new user should be able to place two more bars: 
+7. After the prompt is closed, the new user should be able to place two additional bars: 
 
     <img src="ProductPlan - On Boarding - 09.png" alt="alt text" width="600"/>
     
