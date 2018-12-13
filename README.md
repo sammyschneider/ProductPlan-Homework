@@ -15,11 +15,13 @@ Welcome! The goal of this exercise is to emulate the first time use of the Produ
 
     <img src="ProductPlan - On Boarding - 03.png" alt="alt text" width="500"/>
     
-3. Once the draggable element is released, the container should render like this:
+3. Once the draggable element is released, the lane container should render like this:
 
     <img src="ProductPlan - On Boarding - 04.png" alt="alt text" width="500"/>
     
-4. 
+4. Shortly after the lane container is placed, a second prompt instructs the new user to add the first "bar":
+
+    <img src="ProductPlan - On Boarding - 05.png" alt="alt text" width="500"/>
     
 3. Your page should closely resemble [business_overview_expanded.png](business_overview_expanded.png) when the "more" links are clicked:
     
