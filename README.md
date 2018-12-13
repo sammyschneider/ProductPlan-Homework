@@ -37,6 +37,10 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
     
     <img src="ProductPlan - On Boarding - 10.png" alt="alt text" width="600"/>
     
+    <img src="ProductPlan - On Boarding - 11.png" alt="alt text" width="600"/>
+    
+    <img src="ProductPlan - On Boarding - 12.png" alt="alt text" width="600"/>
+    
 3. Your page should closely resemble [business_overview_expanded.png](business_overview_expanded.png) when the "more" links are clicked:
     
     <img src="business_overview_expanded.png" alt="alt text" width="250"/>
