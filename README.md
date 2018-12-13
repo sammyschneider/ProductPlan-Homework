@@ -49,6 +49,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
 ## What we're looking for
 - **Attention to detail**. Can you build a near-identical representation of the pngs provided above? No detail is too small in our assessment.
 - **Appropriate use of frameworks and tools**. React.js is our preferred framework. For other tooling, as long as you use your preferred tools in an appropriate way and are able to describe your reasoning if asked, you're good to go.
+- **Finish what you can**. Please prioritize what's important in the exercise in case you don't complete it in the 10 hour requirement.
 
 ## Bonus Points
 - You may choose to create the ability to select bars and delete them.
