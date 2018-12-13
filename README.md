@@ -41,25 +41,22 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
     
     <img src="ProductPlan - On Boarding - 12.png" alt="alt text" width="600"/>
 
-Now that we placed three bars, that's it! 
-
 8. Please use React.js in completing the task.
 9. The peripheral UI element like Search and the Roadmap, Planning Board, and Parking Lot should be inactive for the purpose of this exercise.
-10. Create one example of an isolated test for the public methods of any component
-11. Use the following API calls to populate the content areas of the page for an A/B content testing example for the instructional prompts - the hypothetical goal of this test is to validate two content approaches, and we should be able to toggle between the two experiences to preview the A/B test. Assume that the data from these calls is correct.
-    - Content_a (GET: https://api.myjson.com/bins/TBD)
-    - Content_b (GET: https://api.myjson.com/bins/TBD)
-10. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
+10. Provide the level of application test coverage you are familiar with
+11. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
 
 ## What we're looking for
 - **Attention to detail**. Can you build a near-identical representation of the pngs provided above? No detail is too small in our assessment.
 - **Appropriate use of frameworks and tools**. React.js is our preferred framework. For other tooling, as long as you use your preferred tools in an appropriate way and are able to describe your reasoning if asked, you're good to go.
 
 ## Bonus Points
+- You may choose to create the ability to select bars and delete them.
 - You may choose to make the application responsive.
 - You may choose to make the bars drag & droppable into additional lanes within the timeline.
 - You may choose to make the underlying timeline horizontally scrollable.
 - You may choose to make the Lane container expandable and collapsable.
+- You may choose to use API calls to populate content for A/B testing, specifically for instructional prompts - the hypothetical goal of this test is to validate two content approaches, and we should be able to toggle between the two experiences to preview the A/B test.
 
 ## Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your contact. There are no stupid questions!
