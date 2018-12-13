@@ -2,7 +2,7 @@
 Welcome! The goal of this exercise is to emulate first time use of the ProductPlan web application. In effort to assist a new user, this mimics some drag and drop application behaviors that emulates a simple product roadmap by creating one containing "lane" and three "bars", along with step-by-step instructions to guide new users to successful completion of a rudimentary roadmap. Candidates have seven days to complete this and should time box the effort to no more than ten hours. In addition, we encourage candidates to use any preferred tools. 
 
 ## The challenge, should you choose to accept it
-1. Clone this repo (or download the zip archive) to get started. This includes both PNGs and the original Sketch file.
+1. Clone this repo (or download the zip archive) to get started. This includes both PNGs, fonts, and the original Sketch file.
 2. Your page should closely resemble ProductPlan - On Boarding - 02.png on the page load:
     
     <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="600"/>
@@ -41,7 +41,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
     
     <img src="ProductPlan - On Boarding - 12.png" alt="alt text" width="600"/>
 
-Now that we can create three bars, that's it! 
+Now that we place three bars, that's it! 
 
 8. Please use React.js in completing the task.
 9. Use the following API calls to populate any or all parts of page. The data returned may not reflect the amounts in the On Boarding pngs. Assume that the data from these calls is correct.
