@@ -6,17 +6,23 @@ Homework for ProductPlan Engineering candidates. This is an attempt to emulate f
 2. Your page should closely resemble ProductPlan - On Boarding - 02.png on the page load:
     
     <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="500"/>
-2. The "Add lane" button should enable a drag and drop behavior that creates a container:
+    
+3. Shortly after initial load, a help dialog is presented to prompt our new user to Add a lane:
+
+    <img src="ProductPlan - On Boarding - 01.png" alt="alt text" width="500"/>
+2. The "Add lane" button should enable a drag and drop behavior that creates a container, moving right to left:
 
     <img src="ProductPlan - On Boarding - 03.png" alt="alt text" width="500"/>
     
 3. Once the draggable element is released, the container should render like this:
     <img src="ProductPlan - On Boarding - 04.png" alt="alt text" width="500"/>
     
+4. 
+    
 3. Your page should closely resemble [business_overview_expanded.png](business_overview_expanded.png) when the "more" links are clicked:
     
     <img src="business_overview_expanded.png" alt="alt text" width="250"/>
-4. The pencil icon should change color on hover.
+4. The "Add lane" and "Add bar" buttons should change color on hover.
 5. The "New Program" button should open a form to add a new program. This is where you get some UX/design freedom, but the form should have the following fields:
     - Program Type (single select)
         + Count Series
