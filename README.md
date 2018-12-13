@@ -1,4 +1,4 @@
-# productplan-candidate-homework
+# ProductPlan Candidate Homework
 Homework for ProductPlan Candidates
 
 ## Your challenge, should you choose to accept it
