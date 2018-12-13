@@ -1,5 +1,5 @@
 # ProductPlan Candidate Homework
-Homework for ProductPlan Candidates
+Homework for ProductPlan Engineering candidates.
 
 ## Your challenge, should you choose to accept it
 1. Clone this repo (or download the zip archive) to get started.
@@ -25,7 +25,7 @@ Homework for ProductPlan Candidates
         + Outside
         + Inside
         + Gym
-6. You may use any front-end libraries you wish to complete the task. The Internet is your oyster!
+6. You may use React.js to complete the task.
 7. Use the following API calls to populate any or all parts of page. The data returned may not reflect the amounts in the business_overview.png image.      Assume that the data from these calls is correct.
     - Programs (GET: https://api.myjson.com/bins/5bdb3)
     - Pricing Options (GET: https://api.myjson.com/bins/47axv)
@@ -33,7 +33,7 @@ Homework for ProductPlan Candidates
 
 ## What we're looking for
 - **Attention to detail**. Can you build a near-identical representation of the screenshots we provided above? No detail is too small in our assessment.
-- **Appropriate use of frameworks and tools**. You don't necessarily have to use the latest and greatest frameworks. As long as you use your preferred tools in an appropriate way and are able to describe your reasoning if asked, you're good to go.
+- **Appropriate use of frameworks and tools**. React.js is preferred framework. For other tooling, as long as you use your preferred tools in an appropriate way and are able to describe your reasoning if asked, you're good to go.
 
 ## Bonus Points
 You may choose to make the application responsive.
