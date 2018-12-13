@@ -3,9 +3,9 @@ Homework for ProductPlan Engineering candidates.
 
 ## Your challenge, should you choose to accept it
 1. Clone this repo (or download the zip archive) to get started.
-2. Your page should closely resemble [ProductPlan - On Boarding - 02.png](ProductPlan - On Boarding - 02.png) on the page load:
+2. Your page should closely resemble ProductPlan - On Boarding - 02.png on the page load:
     
-    <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="250"/>
+    <img src="ProductPlan - On Boarding - 02.png" alt="alt text" width="500"/>
 3. Your page should closely resemble [business_overview_expanded.png](business_overview_expanded.png) when the "more" links are clicked:
     
     <img src="business_overview_expanded.png" alt="alt text" width="250"/>
