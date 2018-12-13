@@ -1,5 +1,5 @@
 # ProductPlan Candidate Homework
-Welcome! The goal of this exercise is to emulate first time use of the ProductPlan web application. In effort to assist a new user, this mimics some drag and drop application behaviors that emulates a simple product roadmap by creating one containing "lane" and three "bars", along with step-by-step instructions to guide new users to successful completion of a rudimentary roadmap. Candidates have 7 days to complete this and candidates should time box the effort to no more than 10 hours. In addition, we encourage candidates to use any preferred tools. 
+Welcome! The goal of this exercise is to emulate first time use of the ProductPlan web application. In effort to assist a new user, this mimics some drag and drop application behaviors that emulates a simple product roadmap by creating one containing "lane" and three "bars", along with step-by-step instructions to guide new users to successful completion of a rudimentary roadmap. Candidates have seven days to complete this and candidates should time box the effort to no more than ten hours. In addition, we encourage candidates to use any preferred tools. 
 
 ## The challenge, should you choose to accept it
 1. Clone this repo (or download the zip archive) to get started. This includes both PNGs and the original Sketch file.
@@ -31,9 +31,11 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
 
     <img src="ProductPlan - On Boarding - 08.png" alt="alt text" width="600"/>
     
-7. Shortly after the first bar is placed, a second prompt instructs the new user to add two more bars: 
+7. After the prompt is closed, the new user should be able to place two more bars: 
 
     <img src="ProductPlan - On Boarding - 09.png" alt="alt text" width="600"/>
+    
+    <img src="ProductPlan - On Boarding - 10.png" alt="alt text" width="600"/>
     
 3. Your page should closely resemble [business_overview_expanded.png](business_overview_expanded.png) when the "more" links are clicked:
     
