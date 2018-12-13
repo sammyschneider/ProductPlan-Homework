@@ -41,9 +41,9 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
     
     <img src="ProductPlan - On Boarding - 12.png" alt="alt text" width="600"/>
 
-Now that we have created three bars, that's it! 
+Now that we can create three bars, that's it! 
 
-8. Please use React.js to complete the task.
+8. Please use React.js in completing the task.
 9. Use the following API calls to populate any or all parts of page. The data returned may not reflect the amounts in the On Boarding pngs. Assume that the data from these calls is correct.
     - Roadmap (GET: https://api.myjson.com/bins/TBD)
     - Content (GET: https://api.myjson.com/bins/TBD)
