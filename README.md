@@ -44,8 +44,9 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
 Now that we place three bars, that's it! 
 
 8. Please use React.js in completing the task.
-9. Use the following API calls to populate any or all parts of page. The data returned may not reflect the amounts in the On Boarding pngs. Assume that the data from these calls is correct.
-    - Roadmap (GET: https://api.myjson.com/bins/TBD)
+9. The peripheral UI element like Search and the Roadmap, Planning Board, and Parking Lot should be inactive for the purpose of this exercise.
+10. 
+11. Use the following API calls to populate the content areas of the page for an A/B content testing example for the instructional prompts - the hypothetical goal of this test is to validate two content approaches. Assume that the data from these calls is correct.
     - Content (GET: https://api.myjson.com/bins/TBD)
 10. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so it can viewed in a working state.
 
@@ -57,6 +58,7 @@ Now that we place three bars, that's it!
 - You may choose to make the application responsive.
 - You may choose to make the bars drag & droppable into different positions within the timeline.
 - You may choose to make the underlying timeline horizontally scrollable.
+- You may choose to make the Lane container expandable and collapsable.
 
 ## Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your contact. There are no stupid questions!
