@@ -57,7 +57,7 @@ Welcome! The goal of this exercise is to emulate first time use of the ProductPl
 - You may choose to make the bars drag & droppable into additional lanes within the timeline.
 - You may choose to make the underlying timeline horizontally scrollable.
 - You may choose to make the Lane container expandable and collapsable.
-- You may choose to use API calls to populate content for A/B testing, specifically for the instructional prompts - the goal of this hypothetical test is to validate two content approaches. We should be able to toggle between the two experiences to preview the A/B test.
+- Use the following API call to populate the content areas of the page to prepare for a theoretical A/B testing example with the instructional prompts - the hypothetical goal of this test is to validate multiple content approaches with users, which means the instructional prompt content should be dynamic and derived from the API response.
 
 ## Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your contact. There are no stupid questions!
