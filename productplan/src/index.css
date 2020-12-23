@@ -4,6 +4,8 @@
 
 .navBar {
   display: flex;
+  justify-content: space-between;
+  height: 45px;
 }
 .main-tabs {
   display: flex;
@@ -18,11 +20,18 @@
   justify-content: space-around;
   width: 80%;
   height: 700px;
-  background-color: lightgray;
+  background-color: #E4E6E8;
   padding: 1%;
   margin-bottom: 2%;
 }
 .add-buttons {
   display: flex;
   flex-direction: column;
+}
+.logo {
+  height: 50px;
+  width: 120px;
+}
+.search-icon {
+  margin-top: 3%;
 }

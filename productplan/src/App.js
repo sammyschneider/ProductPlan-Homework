@@ -1,34 +1,39 @@
 import { useState, useEffect } from "react";
+import React from 'react';
 import './App.css';
 import Nav from "./components/Nav.js";
 import Main from "./components/Main.js";
+import Lane from "./components/Lane.js";
 
 
-function App() {
+class App extends React.Component {
 
-  useEffect(() => {
+  state = {
+    showLane : false
+  }
+
+  componentDidMount = () => {
     setTimeout(() => {
-      console.log("Testing");
+      this.setState({
+        showLane: true
+      })
     }, 5000);
-  }, []);
-
-  return (
-    <div className="App">
-
-      <Nav />
-
-      <div className="main-tabs">
-        <h1>Product roadmap</h1>
-        <h6>Roadtrip</h6>
-        <h6>Planning board</h6>
-        <h6>Parking lot</h6>
+}
+  render = () => {
+    return (
+      <div className="App">
+        <Nav />
+        <div className="main-tabs">
+          <h1>Product roadmap</h1>
+          <h6>Roadtrip</h6>
+          <h6>Planning board</h6>
+          <h6>Parking lot</h6>
+        </div>
+        <Main />
+        {this.state.showLane ? <Lane /> : null}
       </div>
-
-      <Main />
-
-
-    </div>
-  );
+    )
+  }
 }
 
 export default App;

@@ -4,9 +4,9 @@ const Nav = () => {
     <div>
 
       <nav className="navBar">
-        <img src="https://www.producthood.com/wp-content/uploads/2019/07/productplan.png" alt="logo"/>
+        <img className="logo" src="https://www.producthood.com/wp-content/uploads/2019/07/productplan.png" alt="logo"/>
         <h5>Candidate Roadmap</h5>
-        <i className="fas fa-search"></i>
+        <i className="fas fa-search search-icon"></i>
       </nav>
       <hr/>
 
